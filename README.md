@@ -4,11 +4,13 @@
 ### Language
 - JavaScript
 - TypeScript
+- Dart
 - SQL
 
 ### Framework
 - React
 - Node.js
+- Flutter
 
 ### Library
 - mui
