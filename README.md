@@ -2,31 +2,52 @@
 
 ## Profile🍐
 ### Language
+- HTML、CSS
 - JavaScript
 - TypeScript
 - Dart
 - SQL
 
 ### Framework
-- React
+- React.js
 - Node.js
 - Flutter
 
 ### Library
-- mui
+- Next.js
 - Express
 - mongoose
 - Prisma
+- mui
+- Tailwind CSS
+- React Hook Form
+- React Query
+- storybook
+- jest
 
 ### Database
 - postgreSQL
 - MySQL
 - mongoDB
 
-### Others
+### Infra
 - Docker
+- GitHub Actions
 - Azure(AzureVM, App Service, Managed DB ...)
 - AWS(EC2, RDS ...)
+- GCP
+- firebase
+
+### Tools
+- Git, GitHub
+- Android Studio
+- Xcode
+- Post
+- Slack, Teams, Discord
+- Backlog, Linear
+- Figma
+- Notion
+- Gather
 
 
 ## Stats :chart_with_upwards_trend:
