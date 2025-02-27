@@ -23,7 +23,7 @@
 - React Hook Form
 - React Query
 - storybook
-- jest
+- Jest
 
 ### Database
 - postgreSQL
