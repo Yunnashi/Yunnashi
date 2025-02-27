@@ -38,15 +38,15 @@
   <a href="https://github.com/Yunnashi">
     <img height="20" src="https://img.shields.io/github/followers/Yunnashi?label=follow&logo=github&style=flat" />
   </a>
-<!--   <a href="http://qiita.com/{}">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/{}/posts.svg" />
+  <a href="http://qiita.com/{}">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Yuri-tech-solutions/posts.svg" />
   </a>
   <a href="http://qiita.com/{}">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/{}/contributions.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Yuri-tech-solutions/contributions.svg" />
   </a>
   <a href="https://zenn.dev/{}">
-    <img height="20" src="https://badgen.org/img/zenn/{}/articles?style=plastic" />
-  </a> -->
+    <img height="20" src="https://badgen.org/img/zenn/yunnashi/articles?style=plastic" />
+  </a>
 </p>
     
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yunnashi&theme=gruvbox)
