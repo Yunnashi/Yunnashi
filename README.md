@@ -38,13 +38,13 @@
   <a href="https://github.com/Yunnashi">
     <img height="20" src="https://img.shields.io/github/followers/Yunnashi?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/{}">
+  <a href="http://qiita.com/Yuri-tech-solutions">
     <img height="20" src="https://qiita-badge.apiapi.app/s/Yuri-tech-solutions/posts.svg" />
   </a>
-  <a href="http://qiita.com/{}">
+  <a href="http://qiita.com/Yuri-tech-solutions">
     <img height="20" src="https://qiita-badge.apiapi.app/s/Yuri-tech-solutions/contributions.svg" />
   </a>
-  <a href="https://zenn.dev/{}">
+  <a href="https://zenn.dev/yunnashi">
     <img height="20" src="https://badgen.org/img/zenn/yunnashi/articles?style=plastic" />
   </a>
 </p>
