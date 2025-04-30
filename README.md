@@ -4,7 +4,7 @@
 YURI FUTAKAWA
 
 Frontend Engineer | React | TypeScript | Next.js
-📍 Tokyo, Japan (Open to Relocation) | ✉️ yuridora3@gmail.com
+📍 Fukui, Japan (Open to Relocation) | ✉️ yuridora3@gmail.com
 
 ### SUMMARY
 
