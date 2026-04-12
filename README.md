@@ -81,5 +81,3 @@ Preparing to relocate to Canada and open to frontend engineering opportunities.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yunnashi&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yunnashi&theme=gruvbox&utcOffset=9)
 
-## Trophy :trophy:
-![trophy](https://github-profile-trophy.vercel.app/?username=Yunnashi&theme=gruvbox)
