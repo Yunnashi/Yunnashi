@@ -55,6 +55,7 @@ Preparing to relocate to Canada and open to frontend engineering opportunities.
 ## 📌 Portfolio
 👉 Check my repositories below for projects.
 
+<!-- 採用にはノイズらしいので一旦コメントアウト
 ## Stats :chart_with_upwards_trend:
 
 <p align="left">
@@ -79,5 +80,5 @@ Preparing to relocate to Canada and open to frontend engineering opportunities.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yunnashi&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yunnashi&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yunnashi&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yunnashi&theme=gruvbox&utcOffset=9)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yunnashi&theme=gruvbox&utcOffset=9) -->
 
