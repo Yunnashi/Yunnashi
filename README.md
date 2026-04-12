@@ -28,11 +28,17 @@ AWS, GCP, Firebase, Docker
 ---
 
 ## 💼 Experience
+
 **Frontend Engineer / Flutter Engineer**  
 Jigowatts, Inc. (Freelance)  
 - Led development of a cross-platform EV charging app (Flutter)
 - Implemented Stripe payments and 3D Secure authentication
 - Built PDF receipt system and authentication features
+
+**Full-stack Developer**  
+TEPSYS  
+- Developed and enhanced a sales management system using React and Node.js
+- Built an offline-capable PWA using IndexedDB and Service Worker
 
 **Software Engineer**  
 Mitani Corporation  
