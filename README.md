@@ -48,7 +48,7 @@ Mitani Corporation
 ---
 
 ## 🌍 Currently
-Preparing to relocate to Canada and open to frontend engineering opportunities.
+Preparing to relocate to Canada in October 2026 and open to frontend engineering opportunities.
 
 ---
 
