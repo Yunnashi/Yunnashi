@@ -2,7 +2,7 @@
 
 Frontend Engineer with 5+ years of experience building web and mobile applications using React and Flutter.
 
-📍 Fukui, Japan (Relocating to Canada)  
+📍 Tokyo, Japan (Relocating to Canada)  
 📫 yuridora3@gmail.com  
 
 ---
