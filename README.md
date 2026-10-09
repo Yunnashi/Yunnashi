@@ -5,6 +5,7 @@ Frontend Engineer with 5+ years of experience building web and mobile applicatio
 📍 Toronto, Canada 
 
 📫 yuri.futakawa@gmail.com 
+
 ---
 
 ## 🚀 What I Do
