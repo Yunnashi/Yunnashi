@@ -2,8 +2,8 @@
 
 Frontend Engineer with 5+ years of experience building web and mobile applications using React and Flutter.
 
-📍 Tokyo, Japan (Relocating to Canada)  
-📫 yuridora3@gmail.com  
+📍 Toronto, Canada
+📫 yuri.futakawa@gmail.com  
 
 ---
 
@@ -30,7 +30,7 @@ AWS, GCP, Firebase, Docker
 ## 💼 Experience
 
 **Frontend Engineer / Flutter Engineer**  
-Jigowatts, Inc. (Freelance)  
+Jigowatts, Inc. 
 - Led development of a cross-platform EV charging app (Flutter)
 - Implemented Stripe payments and 3D Secure authentication
 - Built PDF receipt system and authentication features
