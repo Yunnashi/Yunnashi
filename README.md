@@ -2,9 +2,8 @@
 
 Frontend Engineer with 5+ years of experience building web and mobile applications using React and Flutter.
 
-📍 Toronto, Canada
-
-📫 yuri.futakawa@gmail.com
+📍 Toronto, Canada 
+📫 yuri.futakawa@gmail.com 
 ---
 
 ## 🚀 What I Do
